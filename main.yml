@@ -1,0 +1,8 @@
+swagger: '2.0'
+info:
+  version: '1.0.0'
+  title: 'API'
+paths:
+  $ref: './apis/resources.yml'
+definitions:
+  $ref: './definitions/models.yml'

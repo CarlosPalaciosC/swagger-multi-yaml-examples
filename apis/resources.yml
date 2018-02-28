@@ -1,0 +1,5 @@
+/user:  
+  $ref: './user.yml'
+
+/supplier:
+  $ref: './supplier.yml'
